@@ -30,28 +30,43 @@ if __name__ == '__main__':
 
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+- :credit_card: Mi nombre completo es Jesús Daniel Mendoza Medina <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: Actualmente curso el 7.º semestre en el Tecnológico Superior de México, campus El Mante.
+- :earth_americas: Actualmente vivo en Ciudad Mante, Tamaulipas.
+- :books: Me gusta encontrar soluciones a problemas desafiantes.
+- :sunglasses: Mi frase favorita es "He llegado tan lejos para darme por vencido."
+- :sleeping: Por alguna extraña razón, resuelvo problemas mientras duermo
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Lenguajes de programación
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+## <img src="https://universidadvirtualcnci.mx/wp-content/uploads/2022/12/how-it-works-opt4451.gif" width="50px"> Lenguajes de bases de datos
+<div align='center'>
+	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+	<img src="https://skillicons.dev/icons?i=postgres" />
+</div>
+
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa284a2V1dGQ5ZWthd2lyc2d0NWU3N2QxdDMyOXJ0enl4NHpsN3p4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YmunwAcgeZJaH49CrT/giphy.webp" width="50px">Librerias
+<div align='center'>
+	<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,flask" />
+</div>
+
+## <img src="https://static.wixstatic.com/media/dd7a20_4a5674d23ecd438f8c7c2ebcff428d48~mv2.gif" width="50px"> Herramientas
+
+<div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,postman,linux,vscode" />	
 </div>
 	
-##🐍 Entusiasta a compartir informacion 🐍
+🐍 Fiel creyente de que toda la información se debe de compartir 🐍
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
