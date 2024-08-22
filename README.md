@@ -30,7 +30,7 @@ if __name__ == '__main__':
 
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- :credit_card: Mi nombre completo es Jesús Daniel Mendoza Medina <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: Mi nombre completo es Jesús Daniel Mendoza Medina <img src="https://media.tenor.com/UrDRnKDD9F0AAAAM/gjirlfriend.gif" width="300" height="200" align="right"/>
 - :school: Actualmente curso el 7.º semestre en el Tecnológico Superior de México, campus El Mante.
 - :earth_americas: Actualmente vivo en Ciudad Mante, Tamaulipas.
 - :books: Me gusta encontrar soluciones a problemas desafiantes.
