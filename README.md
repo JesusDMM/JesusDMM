@@ -9,7 +9,7 @@
 </p>
 
 
-Estudiante del Tecnológico Superior de México, campus El Mante. Me distingo por una profunda habilidad en la resolución de problemas complejos, con un enfoque particular en tecnologías como Java y una sólida competencia en SQL. Además, he ampliado mis conocimientos en ciencia de datos, utilizando Python para desarrollar modelos de deep learning y realizar análisis de datos avanzados. Mi pasión no solo reside en el dominio técnico, sino también en un compromiso constante con el aprendizaje y el desarrollo profesional. Estoy siempre en busca de métodos innovadores para enfrentar y superar los retos del desarrollo de software y el análisis de datos, creyendo firmemente que cada desafío presenta una oportunidad única para crecer y mejorar.
+Me distingo por una profunda habilidad en la resolución de problemas complejos, con un enfoque particular en tecnologías como Java y una sólida competencia en SQL. Además, he ampliado mis conocimientos en ciencia de datos, utilizando Python para desarrollar modelos de deep learning y realizar análisis de datos avanzados. Mi pasión no solo reside en el dominio técnico, sino también en un compromiso constante con el aprendizaje y el desarrollo profesional. Estoy siempre en busca de métodos innovadores para enfrentar y superar los retos del desarrollo de software y el análisis de datos, creyendo firmemente que cada desafío presenta una oportunidad única para crecer y mejorar.
 <br>
 
 ```python
@@ -31,7 +31,7 @@ if __name__ == '__main__':
  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 - :credit_card: Mi nombre completo es Jesús Daniel Mendoza Medina <img src="https://media.tenor.com/UrDRnKDD9F0AAAAM/gjirlfriend.gif" width="300" height="200" align="right"/>
-- :school: Actualmente curso el 7.º semestre en el Tecnológico Superior de México, campus El Mante.
+- :school: Actualmente egresado del Tecnológico Superior de México, campus El Mante.
 - :earth_americas: Actualmente vivo en Ciudad Mante, Tamaulipas.
 - :books: Me gusta encontrar soluciones a problemas desafiantes.
 - :sunglasses: Mi frase favorita es "He llegado tan lejos para darme por vencido."
